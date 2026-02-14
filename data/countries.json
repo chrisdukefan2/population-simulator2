@@ -1,0 +1,136 @@
+{
+  "countries": [
+    {
+      "name": "South Korea",
+      "code": "KOR",
+      "population": 51740000,
+      "tfr": 0.72,
+      "life_expectancy_male": 80.5,
+      "life_expectancy_female": 86.6,
+      "net_migration": 30000,
+      "sex_ratio_at_birth": 105.3,
+      "baseline_year": 2025,
+      "notes": "TFR is among the lowest globally as of 2024"
+    },
+    {
+      "name": "Japan",
+      "code": "JPN",
+      "population": 123950000,
+      "tfr": 1.20,
+      "life_expectancy_male": 81.5,
+      "life_expectancy_female": 87.6,
+      "net_migration": 70000,
+      "sex_ratio_at_birth": 105.0,
+      "baseline_year": 2025,
+      "notes": "Aging society with very low fertility"
+    },
+    {
+      "name": "United States",
+      "code": "USA",
+      "population": 335000000,
+      "tfr": 1.62,
+      "life_expectancy_male": 74.8,
+      "life_expectancy_female": 80.2,
+      "net_migration": 1000000,
+      "sex_ratio_at_birth": 105.0,
+      "baseline_year": 2025,
+      "notes": "Large net immigration"
+    },
+    {
+      "name": "Germany",
+      "code": "DEU",
+      "population": 84480000,
+      "tfr": 1.35,
+      "life_expectancy_male": 78.8,
+      "life_expectancy_female": 83.4,
+      "net_migration": 300000,
+      "sex_ratio_at_birth": 105.0,
+      "baseline_year": 2025,
+      "notes": "Significant immigration in recent years"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NGA",
+      "population": 230000000,
+      "tfr": 5.10,
+      "life_expectancy_male": 53.0,
+      "life_expectancy_female": 55.5,
+      "net_migration": -60000,
+      "sex_ratio_at_birth": 106.0,
+      "baseline_year": 2025,
+      "notes": "High fertility, young population"
+    },
+    {
+      "name": "Brazil",
+      "code": "BRA",
+      "population": 216000000,
+      "tfr": 1.65,
+      "life_expectancy_male": 72.4,
+      "life_expectancy_female": 79.4,
+      "net_migration": -50000,
+      "sex_ratio_at_birth": 105.0,
+      "baseline_year": 2025,
+      "notes": "Fertility has dropped below replacement"
+    },
+    {
+      "name": "India",
+      "code": "IND",
+      "population": 1440000000,
+      "tfr": 2.00,
+      "life_expectancy_male": 69.4,
+      "life_expectancy_female": 72.0,
+      "net_migration": -500000,
+      "sex_ratio_at_birth": 110.0,
+      "baseline_year": 2025,
+      "notes": "Recently surpassed China as most populous"
+    },
+    {
+      "name": "China",
+      "code": "CHN",
+      "population": 1410000000,
+      "tfr": 1.00,
+      "life_expectancy_male": 75.5,
+      "life_expectancy_female": 80.5,
+      "net_migration": -100000,
+      "sex_ratio_at_birth": 111.0,
+      "baseline_year": 2025,
+      "notes": "Population has begun declining"
+    },
+    {
+      "name": "France",
+      "code": "FRA",
+      "population": 68170000,
+      "tfr": 1.68,
+      "life_expectancy_male": 79.5,
+      "life_expectancy_female": 85.3,
+      "net_migration": 90000,
+      "sex_ratio_at_birth": 105.0,
+      "baseline_year": 2025,
+      "notes": "Historically higher TFR than EU average"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GBR",
+      "population": 68350000,
+      "tfr": 1.49,
+      "life_expectancy_male": 79.0,
+      "life_expectancy_female": 82.9,
+      "net_migration": 250000,
+      "sex_ratio_at_birth": 105.0,
+      "baseline_year": 2025,
+      "notes": "Post-Brexit immigration policy changes"
+    },
+    {
+      "name": "World",
+      "code": "WLD",
+      "population": 8100000000,
+      "tfr": 2.25,
+      "life_expectancy_male": 70.8,
+      "life_expectancy_female": 75.9,
+      "net_migration": 0,
+      "sex_ratio_at_birth": 105.0,
+      "baseline_year": 2025,
+      "notes": "Global averages; net migration is zero by definition"
+    }
+  ]
+}
