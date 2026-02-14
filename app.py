@@ -77,7 +77,7 @@ concentrated = st.sidebar.toggle("Concentrate migration in ages 25-34",
                                  value=False, key=f"conc_{rc}")
 
 st.sidebar.subheader("Historical Data")
-show_historical = st.sidebar.toggle("Show historical data", value=False, key=f"hist_{rc}")
+show_historical = st.sidebar.toggle("Show historical data", value=True, key=f"hist_{rc}")
 hist_years = 0
 if show_historical:
     hist_years = st.sidebar.slider("Historical years to display", min_value=0, max_value=75,
